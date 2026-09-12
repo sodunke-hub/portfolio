@@ -1,12 +1,12 @@
 ---
-title: remi
+title: sodunke
 emoji: 🐳
 colorFrom: yellow
 colorTo: pink
 sdk: static
 pinned: false
 tags:
-  - deepsite
+  - sodunke
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out my projects here https://sodunke-hub.github.io/portfolio/
